@@ -143,6 +143,24 @@ h2 {
   height: 10px;
   background: burlywood;
 }
+.box .percent3{
+  position: relative;
+  width: 80%;
+  height: 10px;
+  background: burlywood;
+}
+.box .percent4 {
+  position: relative;
+  width: 85%;
+  height: 10px;
+  background: burlywood;
+}
+.box .percent5 {
+  position: relative;
+  width: 90%;
+  height: 10px;
+  background: burlywood;
+}
 .d1 {
   display: flex;
 }
